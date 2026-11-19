@@ -1,8 +1,9 @@
 # Contributors
 Each of the following individuals (in alphabetical order) have played a role in this project. Note that commit ID frequency is not a reflection of contribution.
 
-- Person A
-- Person B
+- Kylie Falcione
+- Rene Weber
 
 # Funders
-Include any funding information here if necessary
+UCSB Academic Senate
+National Research Foundation of Korea
