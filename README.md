@@ -1,5 +1,5 @@
 # Reward Dynamics in Game Design and their Association with Compulsive Gaming: A Naturalistic fMRI Study  
-The CRAVE fMRI study tests whether how game rewards are structured changes reward-circuit activity, and whether that effect is stronger in at-risk gamers. Eighty UCSB undergraduates will be recruited from a survey pool of about 3,000: 40 typical gamers and 40 at-risk gamers.
+The CRAVE fMRI study tests how game rewards are structured and change reward-circuit activity, and whether potential effects are stronger in at-risk gamers. Eighty UCSB undergraduates will be recruited from a survey pool of about 3,000: 40 typical gamers and 40 at-risk gamers.
 Task. Participants play a modded version of Vampire Survivors using an MRI-compatible trackball. The mod changes two loot-box parameters independently, giving a 2 × 2 within-subjects design:
 
 - **Schedule:** chests arrive on a fixed-ratio or variable-ratio schedule.
